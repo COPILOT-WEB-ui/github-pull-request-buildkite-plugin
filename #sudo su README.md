@@ -1,3 +1,4 @@
+#sudo su 
 # Github Pull Request Buildkite Plugin
 
 [![tests](https://github.com/envato/github-pull-request-buildkite-plugin/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/envato/github-pull-request-buildkite-plugin/actions/workflows/tests.yml)
